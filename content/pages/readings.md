@@ -36,7 +36,7 @@ Session 2
     
     Evans, R. D. "Genealogy of Nuclides which Emit α Rays." Chapter 16.2 in [_The Atomic Nucleus_](http://www.archive.org/details/atomicnucleus032805mbp), pp. 517-523.
     
-6.  Detection of the Free Neutrino — Reines and Cowan Experiment (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://library.lanl.gov/cgi-bin/getfile?00326606.pdf))
+6.  Detection of the Free Neutrino — Reines and Cowan Experiment ([PDF](http://library.lanl.gov/cgi-bin/getfile?00326606.pdf))
     
 
 Session 3
@@ -53,7 +53,7 @@ Session 4
      
 9.  [Background for Terrestrial Antineutrino Investigations: Radionuclide Distribution, Georeactor Fission Events, and Boundary Conditions on Fission Power Production](http://arxiv.org/abs/hep-ph/0501216), J. M. Herndon, D. A. Edgerley, 2005  
      
-10.  Considerations For a Dedicated Geoneutrino Detector For Geosciences, P. Ila, W. Gosnold, P. Jagam, G. I. Lykken (GRAFG) AGU 2008 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5MB](http://arxiv.org/ftp/arxiv/papers/0902/0902.3607.pdf))  
+10.  Considerations For a Dedicated Geoneutrino Detector For Geosciences, P. Ila, W. Gosnold, P. Jagam, G. I. Lykken (GRAFG) AGU 2008 ([PDF - 1.5MB](http://arxiv.org/ftp/arxiv/papers/0902/0902.3607.pdf))  
       
     In AGU Special Session:  
     Terrestrial Heat Flux and Geoneutrinos: Estimating the Earth's Heat Flux AGU Fall Meeting, December 15-19, 2008, San Francisco, CA, USA EOS Trans. AGU, 2008, 89(53), Fall meeting, Suppl., Abstract T21C-1978.

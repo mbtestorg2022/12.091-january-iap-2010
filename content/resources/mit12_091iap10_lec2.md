@@ -5,6 +5,7 @@ description: 'Lecture presentation on the basic radiation characteristics of hea
   the basics of radiation detection concepts, and antineutrino radiation detection.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-elements-k-u-th-in-the-earth-january-iap-2010/ed4136f9236885d0c210b664419eb79a_MIT12_091IAP10_lec2.pdf
 file_type: application/pdf
+parent_uid: 1f192f83-204c-6414-b96c-48d9b24347b3
 resourcetype: Document
 title: Session 2
 uid: ed4136f9-2368-85d0-c210-b664419eb79a

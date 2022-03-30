@@ -7,6 +7,7 @@ description: Lecture presentation on the relevance of existing large antineutrin
   Detector (KamLAND), Japan.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-elements-k-u-th-in-the-earth-january-iap-2010/8c0a06fa81ee1a8403497f3011dd3640_MIT12_091IAP10_lec3.pdf
 file_type: application/pdf
+parent_uid: 1f192f83-204c-6414-b96c-48d9b24347b3
 resourcetype: Document
 title: Session 3
 uid: 8c0a06fa-81ee-1a84-0349-7f3011dd3640

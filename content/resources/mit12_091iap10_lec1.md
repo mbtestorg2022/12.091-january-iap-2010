@@ -6,6 +6,7 @@ description: Lecture presentation on the relevance to antineutrino analysis of g
   of the Earth's core.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-091-basics-of-analysis-with-antineutrinos-from-heat-producing-elements-k-u-th-in-the-earth-january-iap-2010/69daed1451c5a93e31365034b1a9eac7_MIT12_091IAP10_lec1.pdf
 file_type: application/pdf
+parent_uid: 1f192f83-204c-6414-b96c-48d9b24347b3
 resourcetype: Document
 title: Session 1
 uid: 69daed14-51c5-a93e-3136-5034b1a9eac7
